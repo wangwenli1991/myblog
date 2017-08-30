@@ -1,1 +1,7 @@
-@extends('layouts.master')
+@extends('layout')
+
+@section('content')
+
+asd
+
+@endsection
