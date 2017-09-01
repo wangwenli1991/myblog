@@ -22,17 +22,12 @@
   @include('layouts.masthead')
 
 
-  <div class="container">
 
-    <div class="row">
 
 @include('posts.index')
 
 
-      </div><!-- /.row -->
 
-    </div><!-- /.container -->
-    @include('layouts.sidebar')
 
 
 
